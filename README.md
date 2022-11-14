@@ -3,6 +3,12 @@
 ### The smallest heading
 
 ```
+Italic text :- Can be typed between pair of Underscores → _text_
+Bold text :- Can be typed between a pair of two Asterisk → **text**
+Strikethrough :- Can be typed between a pair of two Tilde → ~~text~~
+```
+
+```
 git add .
 git commit -m "notes"
 git push
@@ -14,4 +20,4 @@ Quote
 
 Adding links
 <!-- []represente title -->
-[The link of this repository](https://github.com/kionale/Week-10)
+[YouTube](https://www.youtube.com)
