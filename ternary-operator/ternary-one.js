@@ -5,3 +5,9 @@ function priceDisplay(isMember) {
 }
 
 console.log(priceDisplay(true));
+
+var message = "";
+console.log(canDrive(15));
+function canDrive(age) {
+    return (age >= 16 ? message = ' you can drive' : message = 'you can not drive');
+}
